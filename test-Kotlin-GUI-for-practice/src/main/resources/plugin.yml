@@ -1,0 +1,3 @@
+name: test-Kotlin-GUI-for-practice
+version: '${project.version}'
+main: mask.lab.testkotlinguiforpractice.Test_Kotlin_GUI_for_practice
